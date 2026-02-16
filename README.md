@@ -11,11 +11,11 @@ Each problem is placed in a separate folder with its own Main.java file.
 
 Compile and run from the parent folder:
 
-javac RemoveKDigits/Main.java
+javac RemoveKDigits/Main.java and 
 java RemoveKDigits.Main
 
-javac SingleNumber/Main.java
+javac SingleNumber/Main.java and 
 java SingleNumber.Main
 
-javac WordPattern/Main.java
+javac WordPattern/Main.java and 
 java WordPattern.Main
